@@ -1,5 +1,19 @@
-div{
-    background-color:rgb(39, 237, 237);
-    padding: 20px;
-    margin-top: 10px;
+
+.kim{
+    background-color: aqua;
+padding: 20px;
+margin-top: 10px;
+box-shadow: 10px 10px 50px;
+}
+.box{
+    background-color: chartreuse;
+    padding: 10px;
+}
+header{
+    border-top: 10px solid salmon;
+    margin: 15%;
+    height: 120px;
+    width: 200px;
+    border-radius: 10px;
+
 }
